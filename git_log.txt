@@ -1,0 +1,60 @@
+commit 53afa0981264602c011c2637a844baf8fd4a480d
+Merge: 342c746 249b7cb
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Fri Feb 7 14:12:52 2025 -0800
+
+    Merge branch 'main' of https://github.com/atorre112/CS3338-second-project
+
+commit 342c746a981a111fc97ee3b4e51409da5f23254f
+Merge: 55bc11f 61c165e
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Fri Feb 7 13:46:08 2025 -0800
+
+    Merge branch 'index-fix'
+
+commit 61c165e2c00157e77d8297598283660f3456cfda
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Fri Feb 7 13:43:17 2025 -0800
+
+    Added favorite video game div
+
+commit 55bc11f1b69af11eb02046a93162deff5121b774
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Fri Feb 7 13:40:33 2025 -0800
+
+    Added favorite food div
+
+commit 3a5cba851826d80f8654c349002d7b6f27595630
+Author: atorre112 <atorre112@calstatela.edu>
+Date:   Fri Feb 7 13:22:11 2025 -0800
+
+    Added favorite food div
+
+commit 249b7cb01177f05d459a28ca609f2e9f80f0e9c3
+Author: atorre112 <124208922+atorre112@users.noreply.github.com>
+Date:   Fri Feb 7 13:08:31 2025 -0800
+
+    Create README.md
+    
+    This is for my second project.
+
+commit 127cb2f60105e3c6ab7b240508e4e9da1a4a9252
+Merge: 1d2bfc0 1890a9a
+Author: atorre112 <124208922+atorre112@users.noreply.github.com>
+Date:   Fri Feb 7 13:05:47 2025 -0800
+
+    Merge pull request #1 from atorre112/info-fill
+    
+    Made changes to html file
+
+commit 1890a9a06dd95e5adf460e76c2d4e9c4434d26eb
+Author: Alec Torres <alect4@mac.wifi.calstatela.edu>
+Date:   Fri Jan 31 13:16:35 2025 -0800
+
+    Made changes to html file
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
